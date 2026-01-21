@@ -5,7 +5,7 @@ Sitio web institucional responsive para MAFRA Servicios Industriales e Integrale
 
 Desarrollado freelance desde el contenido y logo proporcionados.
 
-Live: https://manfra.ar
+Live: https://mafra.ar
 
 ## Tecnologías
 - HTML5 / CSS3 / JavaScript
